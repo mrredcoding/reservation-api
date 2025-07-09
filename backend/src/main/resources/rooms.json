@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Standard Room",
+    "maxOccupancy": 2,
+    "isAvailable": true
+  },
+  {
+    "name": "Deluxe Room",
+    "maxOccupancy": 3,
+    "isAvailable": false
+  },
+  {
+    "name": "Family Suite",
+    "maxOccupancy": 5,
+    "isAvailable": true
+  }
+]
